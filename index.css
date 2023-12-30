@@ -2,4 +2,7 @@ body {
   background-color: red;
   color: white;
   border-radius: 20px;
+
+  position: absolute;
+  top: 70px;
 }
